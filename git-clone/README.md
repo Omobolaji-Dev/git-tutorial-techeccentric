@@ -10,7 +10,7 @@ Identify the GitHub repository you want to contribute to. You can find repositor
 Get the Repository URL:
 On the repository's GitHub page, click the "Code" button to reveal the repository's URL. Copy the URL.
 
-![code](./images/code)
+![code](./images/code.png)
 
 ## Clone the Repository
 
