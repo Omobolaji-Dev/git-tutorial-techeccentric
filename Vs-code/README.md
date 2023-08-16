@@ -30,6 +30,8 @@ After installation, open VSCode from your applications menu or by searching for 
 
 ## Install the Git Extension for VSCode
 
+GitLens is a popular extension for the Visual Studio Code (VS Code) integrated development environment (IDE). It enhances the Git integration within VS Code by providing a wide range of features and capabilities that help developers understand and navigate through their Git repositories more effectively. GitLens is developed by Eric Amodio.
+
 - Once VSCode is open, go to the Extensions view by clicking the Extensions icon in the sidebar or using the shortcut Ctrl + Shift + X (or Cmd + Shift + X on macOS).
 
 - Search for "Git" in the search bar.
@@ -56,7 +58,7 @@ Note: The following instructions might vary slightly based on your operating sys
   - Under "System variables," find the "Path" variable, select it, and click "Edit."
   - Add a new entry with the path to the Git executable folder (e.g., C:\Program Files\Git\cmd).
   - Click "OK" to save your changes.
-U
+
 ## Using Git Bash
 
 If you prefer using Git Bash, you can launch Git Bash from the start menu or desktop icon. It's a command-line interface that comes with Git for Windows.
