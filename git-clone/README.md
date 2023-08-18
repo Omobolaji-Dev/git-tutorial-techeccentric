@@ -5,6 +5,8 @@ Using git clone is a common way to contribute to GitHub repositories. It allows 
 Here's a step-by-step guide:
 
 ## Find a Repository
+## Oluwani oluso aguntanmi
+![image of my beautiful face](./images/new-pull.png)
 Identify the GitHub repository you want to contribute to. You can find repositories by searching on GitHub or through links shared by others.
 
 Get the Repository URL:
